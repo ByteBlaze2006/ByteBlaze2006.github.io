@@ -39,7 +39,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background:url("../images/header.jpg") no-repeat;
+    background:url("../images/1.jpg") no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
