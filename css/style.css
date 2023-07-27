@@ -6377,6 +6377,8 @@ pre .deletion {
 .page-template-container .friends-link-container .friends-link-list .friends-link-item-has-thumbnail {
   transform: scale(1);
   transition: transform 0.1s ease;
+  width: 32% !important;
+  margin-left: 1% !important;
   box-sizing: border-box;
   position: relative;
   float: left;
@@ -6384,6 +6386,12 @@ pre .deletion {
   cursor: pointer;
   height: $friend-link-item-thumbnail-height;
   padding-bottom: 16px;
+}
+.page-template-container .friends-link-container .friends-link-list .friends-link-item-has-thumbnail:nth-child(odd) {
+  padding-right: 0 !important;
+}
+.page-template-container .friends-link-container .friends-link-list .friends-link-item-has-thumbnail:nth-child(even) {
+  padding-left: 0 !important;
 }
 .page-template-container .friends-link-container .friends-link-list .friends-link-item-has-thumbnail:hover .content,
 .page-template-container .friends-link-container .friends-link-list .friends-link-item-has-thumbnail:focus .content {
@@ -6521,6 +6529,8 @@ pre .deletion {
 .page-template-container .friends-link-container .friends-link-list .friends-link-item {
   transform: scale(1);
   transition: transform 0.1s ease;
+  width: 32% !important;
+  margin-left: 1% !important;
   box-sizing: border-box;
   position: relative;
   float: left;
@@ -6528,6 +6538,12 @@ pre .deletion {
   cursor: pointer;
   height: 82px;
   padding-bottom: 16px;
+}
+.page-template-container .friends-link-container .friends-link-list .friends-link-item:nth-child(odd) {
+  padding-right: 0 !important;
+}
+.page-template-container .friends-link-container .friends-link-list .friends-link-item:nth-child(even) {
+  padding-left: 0 !important;
 }
 .page-template-container .friends-link-container .friends-link-list .friends-link-item:hover .content,
 .page-template-container .friends-link-container .friends-link-list .friends-link-item:focus .content {
