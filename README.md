@@ -9,6 +9,7 @@
 - 我擅长于：Office办公软件、Photoshop图像处理、Premiere视音频编辑等
 - 常探索于：52pojie论坛、GitHub社区、CSDN社区、bilibili大学等
 - 正在学习：Linux、Python、C语言等
+- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBlaze)
 
 # 知识仓库
 - 个人博客：https://byteblaze2006.github.io/
